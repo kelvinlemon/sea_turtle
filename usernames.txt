@@ -1,7 +1,1 @@
-john
-,jane
-,kevin
-,bill
-,mark
-,joe
-,chris
+john\n,jane\n,kevin\n,bill\n,mark\n,joe\n,chris\n
